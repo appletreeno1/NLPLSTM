@@ -1,0 +1,4 @@
+# NLPLSTM
+LSTM
+LSTMLM.py是实现单层
+LSTMLMTWO.py实现双层
